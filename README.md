@@ -2,7 +2,7 @@
 
 # WorldManager Commands
 
-```PHP
+```TXT
 //Creation of the world
 /wm create [world, seed, generate]
 
