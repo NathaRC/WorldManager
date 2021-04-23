@@ -62,8 +62,6 @@ class Base extends PluginBase {
       }
       elseif ($args[0] == 'delete') {
         DeleteWorld::removeWorld($args[1]);
-        /*$file = Server::getInstance()->getDataPath().'worlds/'.$args[1];
-        rmdir($file);*/
         $player->sendMessage("§7[§dWorldManager§7] §aThe world {$args[1]} was successfully eliminated");
       }
     }
