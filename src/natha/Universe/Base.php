@@ -57,7 +57,7 @@ class Base extends PluginBase {
         $player->sendMessage("§3=======§7[§dWorldManager§7]§3=======");
         $player->sendMessage("§7[§dWorldManager§7] §3/mw create [{name}, {seed} {normal : flat}]");
         $player->sendMessage("§7[§dWorldManager§7] §3/mw tp name");
-        $player->sendMessage("§7[§dWorldManager§7] §3/mw create list");
+        $player->sendMessage("§7[§dWorldManager§7] §3/mw list");
         $player->sendMessage("§7[§dWorldManager§7] §3/mw help");
       }
       elseif ($args[0] == 'delete') {
