@@ -1,6 +1,7 @@
 # WorldManager
 
-# •WorldManager Commands
+# WorldManager Commands
+
 ```PHP
 //Creation of the world
 /wm create [world, seed, generate]
