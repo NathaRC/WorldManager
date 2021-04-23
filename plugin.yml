@@ -1,0 +1,8 @@
+name: WorldManager
+api: 4.0.0
+main: natha\universe\Base
+author: natha
+version: 0.0.1-Pmmp4.0
+commands:
+   wm:
+     description: "§aWorldManager create world"
